@@ -6,7 +6,7 @@ function Users() {
     const USERS = [{
         id: "u1",
         name: "bobby pol",
-        image: "https://fillmurray.com/200/300",
+        image: "https://www.placecage.com/200/300",
         places: 3
     }];
 
